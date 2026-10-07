@@ -1,1 +1,82 @@
-Hello, World!
+index.html:
+    Full Name
+    Job Title
+    Short Address
+
+    Profile Picture:
+    Bio:
+
+    Social Links:
+    LinkedIn
+    GitHub
+
+    Copyright
+
+education.html:
+    University Logo
+    University Name
+    Degree Name
+    Relevant Courses
+
+    HSC College Logo
+    HSC College Name
+    Stream
+    Relevant Subjects
+
+    SSC School Logo
+    SSC School Name
+    Stream
+    Relevant Subjects
+
+experience.html
+    Company Logo
+    Comapny Name
+    Job Role
+    Responsibilities
+
+    Company Logo
+    Comapny Name
+    Job Role
+    Responsibilities
+
+    Company Logo
+    Comapny Name
+    Job Role
+    Responsibilities
+
+projects.html
+    Project Snapshot
+    Project Name
+    Project Description
+    Tech Stack
+
+    Project Snapshot
+    Project Name
+    Project Description
+    Tech Stack
+
+    Project Snapshot
+    Project Name
+    Project Description
+    Tech Stack
+
+contactme.html
+    First Name
+    Last Name
+    Email
+    Country:
+        Bangladesh
+        Other
+        UK
+        USA
+    Reason of Contact:
+        Job
+        Project
+        Research
+    Domain:
+        Web Development
+        AI/ML Development
+        Mobile Development
+    Message
+    Appointment Date
+    Submit Reset
