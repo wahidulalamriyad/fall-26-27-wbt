@@ -46,7 +46,7 @@ experience.html
 
 projects.html
     Project Snapshot
-    Project Name
+    Project Name:
     Project Description
     Tech Stack
 
